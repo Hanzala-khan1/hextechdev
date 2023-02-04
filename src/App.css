@@ -655,7 +655,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     margin-top: 14px;
     font-size: 1rem;
     color: white;
-	  display:block;
+    display: block;
   }
   .logodiv{
     display: flex;
@@ -666,9 +666,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   .hlogo{
     margin-top: 7px;
     font-size: 1rem;
+    display: block;
     color: white;
-	  display:inline-block;
-	  
   }
   .logodiv{
     display: flex;
